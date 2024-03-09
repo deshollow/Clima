@@ -38,3 +38,5 @@ struct WeatherModel {
         }
     }
 }
+
+//for weather icon
